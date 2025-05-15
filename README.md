@@ -1,2 +1,4 @@
 # RockPaperScissors
-A pseudocode document for the classic game "Rock, paper and scissors". 
+A JS console-game for the classic "Rock, paper and scissors".
+
+Included pseudocode for understanding code structure in SE.  
